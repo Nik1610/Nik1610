@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h1 align="center">Hello! I am Niket</h1>
+<h3 align="center">A passionate 14 yr old Web Developer, Game Developer and App Developer</h3>
+<img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranshu05" /> </p>
+<p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 
 <!--
 **Nik1610/Nik1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
