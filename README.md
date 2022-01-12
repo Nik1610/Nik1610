@@ -5,6 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nik16105&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Nik1610" /> </p>
 <p><a href="https://pranshu05.github.io"><img src="https://github.com/Nik1610/Nik1610/blob/main/my-first-project.svg"/></p></a>
 
+
+[![Website](https://img.shields.io/website?label=Youngcoder&style=for-the-badge&url=https%3A%2F%2Fpranshu05.github.io)](https://nik1610.github.io/M.M-Interior)
+[![wakatime](https://wakatime.com/badge/user/14b6ad0f-2425-4d08-bfba-1dab751e4e00.svg?style=for-the-badge)](https://wakatime.com/@14b6ad0f-2425-4d08-bfba-1dab751e4e00)
+
+
 <!--
 **Nik1610/Nik1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
