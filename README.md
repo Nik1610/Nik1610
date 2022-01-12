@@ -1,8 +1,8 @@
 
 <h1 align="center">Hello! I am Niket</h1>
 <h3 align="center">A passionate 14 yr old Web Developer, Game Developer and App Developer</h3>
-<img align="right" alt="GIF" src="https://github.com/pranshu05/pranshu05/blob/main/coding-typing.gif" width="500" height="320" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu05&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranshu05" /> </p>
+<img align="right" alt="GIF" src="https://github.com/Nik1610/Nik1610/blob/main/coding.gif" width="500" height="320" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nik16105&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Nik1610" /> </p>
 <p><a href="https://pranshu05.github.io"><img src="https://forthebadge.com/images/featured/featured-built-with-love.svg"/></p></a>
 
 <!--
