@@ -3,7 +3,7 @@
 <h3 align="center">A passionate 14 yr old Web Developer, Game Developer and App Developer</h3>
 <img align="right" alt="GIF" src="https://github.com/Nik1610/Nik1610/blob/main/coding.gif" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nik16105&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Nik1610" /> </p>
-<p><a href="https://pranshu05.github.io"><img src="https://github.com/Nik1610/Nik1610/blob/main/my-first-project.svg"/></p></a>
+<p><a href="https://nik1610.github.io/M.M-Interior"><img src="https://github.com/Nik1610/Nik1610/blob/main/my-first-project.svg"/></p></a>
 
 
 [![Website](https://github.com/Nik1610/Nik1610/blob/main/m-m-interior-project.svg)](https://nik1610.github.io/M.M-Interior)
