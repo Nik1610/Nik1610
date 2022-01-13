@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently **learning FLutter**
+- 🌱 I’m currently **learning Flutter**
 
 - 🤔 I’m also looking for help with **Flutter**
 
