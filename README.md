@@ -6,7 +6,7 @@
 <p><a href="https://nik1610.github.io/M.M-Interior"><img src="https://github.com/Nik1610/Nik1610/blob/main/my-first-project.svg"/></p></a>
 
 
-[![Website](https://github.com/Nik1610/Nik1610/blob/main/m-m-interior-project.svg)](https://nik1610.github.io/M.M-Interior)
+[![Website](https://github.com/Nik1610/Nik1610/blob/main/m-m-interior-project.svg)]( https://nikboiiiii.github.io/M.M-Interior/)
 [![wakatime](https://wakatime.com/badge/user/f4e2b01a-0a01-4230-a3cf-421b2bb494d7.svg?style=for-the-badge)](https://wakatime.com/@f4e2b01a-0a01-4230-a3cf-421b2bb494d7)
 
 # What I'm doing
